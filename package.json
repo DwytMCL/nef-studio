@@ -1,0 +1,1 @@
+{"name":"nef-studio","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"dependencies":{"fflate":"^0.8.2","libraw-wasm":"^1.6.0"},"devDependencies":{"vite":"^7.3.1"}}
