@@ -1,5 +1,7 @@
 # NEF Studio
 
+**Live demo:** [dwytmcl.github.io/nef-studio](https://dwytmcl.github.io/nef-studio/)
+
 A browser-local Nikon NEF to PNG converter. Open the hosted site on an iPhone or desktop, choose NEF files, then convert and download. Photos stay in the browser and are never uploaded.
 
 ## Run locally
